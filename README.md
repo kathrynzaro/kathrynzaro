@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I'm Kat Zaro
+- 😄 Pronouns: she/her
+- 🌱 I’m currently learning backend development as part of a full stack program at Alchemy Code Lab
+- ⚡ I'm very interested in design and UI/UX 
+- 💬 Ask me about my BA in Women's Studies and my background in the specialty coffee industry!
+- 📫 How to reach me: zarokathryn@gmail.com
