@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Kat 👋
 
 <!--
 **kathrynzaro/kathrynzaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I'm Kat Zaro
-- 😄 Pronouns: she/her
+- 😄 I use she/her pronouns
 - 🌱 I’m currently learning backend development as part of a full stack program at Alchemy Code Lab
 - ⚡ I'm very interested in design and UI/UX 
 - 💬 Ask me about my BA in Women's Studies and my background in the specialty coffee industry!
