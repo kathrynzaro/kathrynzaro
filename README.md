@@ -22,3 +22,10 @@ I am a frontend-leaning engineer who's passionate about design, my greatest hope
 - ⚡ I'm very interested in design and UI/UX 
 - 💬 Ask me about my BA in Women's Studies and my background in the specialty coffee industry!
 - 📫 How to reach me: zarokathryn@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathrynzaro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynzaro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
