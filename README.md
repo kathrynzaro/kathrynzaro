@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a frontend-leaning engineer who's passionate about design, my greatest hope is to improve the lived experience of others and to transform the physical & tech spaces around me into spaces that are accessible, efficient, and, of course, easy on the eyes. 
+I am a frontend-leaning engineer who's passionate about design. My greatest hope is to improve the lived experience of others and to transform the physical & tech spaces around me into spaces that are accessible, efficient, and, of course, easy on the eyes. 
 
 - 😄 I use she/her pronouns
 - 🌱 I’m currently learning backend development as part of a full stack program at Alchemy Code Lab
