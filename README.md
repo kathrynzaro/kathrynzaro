@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=54&pause=1000&color=F75500&width=485&height=68&lines=Hey%2C+I'm+Kat.)](https://git.io/typing-svg)
 <!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=54&pause=1000&color=F75500&width=485&height=68&lines=Hey%2C+I'm+Kat.)](https://git.io/typing-svg)
+
 **kathrynzaro/kathrynzaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +14,9 @@ Here are some ideas to get you started:
 - Pronouns: ...
 - Fun fact: ...
 -->
+
+# Hey, I'm Kat.
+## Full stack developer in Portland, OR.
 #### I am a frontend-leaning engineer who's passionate about design. My greatest hope is to improve the lived experience of others and to transform the physical & tech spaces around me into spaces that are accessible, efficient, and, of course, easy on the eyes. 
 
 - I use she/her pronouns
@@ -47,9 +51,9 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathrynzaro&show_icons=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathrynzaro&show_icons=false&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynzaro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynzaro&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
