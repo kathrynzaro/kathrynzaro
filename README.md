@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=54&pause=1000&color=F75500&width=485&height=78&lines=Hey%2C+I'm+Kat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=54&pause=1000&color=F75500&width=485&height=68&lines=Hey%2C+I'm+Kat.)](https://git.io/typing-svg)
 <!--
 **kathrynzaro/kathrynzaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - Pronouns: ...
 - Fun fact: ...
 -->
-I am a frontend-leaning engineer who's passionate about design. My greatest hope is to improve the lived experience of others and to transform the physical & tech spaces around me into spaces that are accessible, efficient, and, of course, easy on the eyes. 
+#### I am a frontend-leaning engineer who's passionate about design. My greatest hope is to improve the lived experience of others and to transform the physical & tech spaces around me into spaces that are accessible, efficient, and, of course, easy on the eyes. 
 
 - I use she/her pronouns
 - I’m currently learning backend development as part of a full stack program at Alchemy Code Lab
@@ -21,7 +21,7 @@ I am a frontend-leaning engineer who's passionate about design. My greatest hope
 - Ask me about my BA in Women's Studies and my background in the specialty coffee industry!
 - How to reach me: zarokathryn@gmail.com
 
-Tech Stack
+#### Tech Stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
