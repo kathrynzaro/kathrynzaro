@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # Hey, I'm Kat.
-## Full stack developer in Portland, OR.
-#### I am a frontend-leaning engineer who's passionate about design. My greatest hope is to improve the lived experience of others and to transform the physical & tech spaces around me into spaces that are accessible, efficient, and, of course, easy on the eyes. 
+## Full stack software engineer in Portland, OR.
+#### I am a frontend-leaning engineer who's passionate about design, human beings, and writing cool code. My greatest hope is to improve the lived experience of others and to transform the physical & tech spaces around me into spaces that are accessible, efficient, and, of course, easy on the eyes. 
 
 - I use she/her pronouns
 - I’m currently learning full stack development at Alchemy Code Lab
