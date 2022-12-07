@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 #### I am a frontend-leaning engineer who's passionate about design, human beings, and writing cool code. My greatest hope is to improve the lived experience of others and to transform the physical & tech spaces around me into spaces that are accessible, efficient, and, of course, easy on the eyes. 
 
 - I use she/her pronouns
-- I’m currently learning full stack development at Alchemy Code Lab
-- I'm very interested in design and UI/UX 
 - Ask me about my BA in Women's Studies and my background in the specialty coffee industry!
 - How to reach me: zarokathryn@gmail.com
 
